@@ -12,7 +12,9 @@ Title: Posterior covariance information criterion for general loss functions
 
 Authors: Yukito Iba (The Institute of Statistical Mathematics), Keisuke Yano (The Institute of Statistical Mathematics)
 
-Abstract: 
+Abstract: We propose a novel computationally low-cost method for estimating general predictive measure of generalised Bayesian inference.
+The proposed method utilises posterior covariance and provides estimators of the Gibbs and the plugin generalisation errors.
+We present theoretical guarantees of the proposed method, clarifying the connection to the Bayesian sensitivity analysis and the infinitesimal jackknife approximation of Bayesian leave-one-out cross validation. We illustrate several applications of our methods, including applications to differential privacy-preserving learning, the Bayesian hierarchical modeling, the Bayesian regression in the presence of influential observations, and the bias reduction of the widely-applicable information criterion. The applicability in high dimensions is also discussed.
 
 ==========================================================================
 
